@@ -1,4 +1,4 @@
-# 🚀 Web Projesi Başlangıç Paketi &nbsp;·&nbsp; SEO-first · Next.js
+# ✅ Web Projesi Checklist'i &nbsp;—&nbsp; unuttuğunuz ya da yapılmamış hiçbir şey kalmasın
 
 > SEO / GEO / AEO odaklı, güvenli, **%100 statik** bir Next.js sitesini sıfırdan kurmak için hazır **standart + denetim** paketi. Bir proje kılavuzu (`CLAUDE.md`), SEO/GEO/AEO denetim listeleri, güvenlik & canlı-site checklist'leri ve rol tanımlı agent'lar içerir.
 
