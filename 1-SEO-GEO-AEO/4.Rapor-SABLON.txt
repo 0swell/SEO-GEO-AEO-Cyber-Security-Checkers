@@ -1,0 +1,112 @@
+===============================================================================
+  SEO / GEO / AEO DENETİM RAPORU
+  Proje   : (proje adı)
+  Yol     : (proje klasörü)
+  Denetim : (denetlenen adres — dev sunucu veya canlı URL)
+  Tarih   : (YYYY-AA-GG)
+  Denetçi : pazarlama-uzmani (SEO / GEO / AEO)
+===============================================================================
+
+İŞARETLER
+  [✓] uygun · [✗] uygun değil · [~] kısmen
+  [97] uygulanamaz · [98] yayın sonrası kontrol edilir · [99] insan kontrolü gerekir
+  Puan: [✓] tam · [~] yarım · [✗] sıfır · [97]/[98]/[99] kapsam dışı
+
+KURAL
+  · Orijinal listeler (1.SEO / 2.GEO / 3.AEO) ASLA işaretlenmez, boş şablon kalır.
+  · İşaretleme yalnız bu dosyada yapılır.
+  · [✗] [~] [97] [98] [99] maddeler ÖNERİLER bölümüne alınır; her biri için
+    "index Öneri: ..." satırı yazılır — neden bu işaret, ne eksik, nasıl düzeltilir.
+  · Ölçüm gerektiren maddede komut çıktısı olmadan işaret konmaz.
+
+DENETLENEN ROTALAR
+  (tüm sayfalar + robots.txt + sitemap.xml + llms.txt + olmayan bir sayfa;
+   her birinin HTTP kodu yazılır)
+
+GENEL SONUÇ
+  SEO ....... %__   (__ / __ puanlanabilir madde)
+  GEO ....... %__   (__ / __ puanlanabilir madde)
+  AEO ....... %__   (__ / __ puanlanabilir madde)
+  ─────────────────────────────────────────────
+  TOPLAM .... %__   (__ / __)
+
+
+===============================================================================
+  1 · SEO — %__
+===============================================================================
+
+--- 1.A · Taranabilirlik & İndexleme ------------------------------ %__ (_/_)
+
+[ ]  1.A.1   ...
+             (maddeler 1.SEO.md'den kopyalanır, sırası korunur)
+
+
+===============================================================================
+  2 · GEO — %__
+===============================================================================
+
+(2.GEO.md maddeleri)
+
+
+===============================================================================
+  3 · AEO — %__
+===============================================================================
+
+(3.AEO.md maddeleri)
+
+
+===============================================================================
+  UYDURMA VERİ / DÜRÜSTLÜK DENETİMİ
+===============================================================================
+
+Yasaklar tek tek aranır ve bulgu yazılır:
+  · Uydurma istatistik ("500+ mutlu müşteri")
+  · Hayali referans, sahte müşteri yorumu
+  · Gerçek olmayan aggregateRating schema'sı
+  · Sahte kurumsallık ("ekibimiz", olmayan tecrübe yılı)
+  · Gizli metin, doorway page, şehir başına klon sayfa
+  · Schema'da olup sayfada görünmeyen bilgi
+
+Bulgu yoksa "İHLAL BULUNMADI" yazılır ve neye bakıldığı sayılır.
+
+
+===============================================================================
+  ÖNERİLER
+===============================================================================
+
+------------------------------- 1 · SEO ---------------------------------------
+
+1.A.1 Öneri: ...
+
+------------------------------- 2 · GEO ---------------------------------------
+
+2.A.1 Öneri: ...
+
+------------------------------- 3 · AEO ---------------------------------------
+
+3.A.1 Öneri: ...
+
+
+===============================================================================
+  EN KRİTİK 5 EKSİK
+===============================================================================
+
+1. ...
+2. ...
+3. ...
+4. ...
+5. ...
+
+
+===============================================================================
+  ÖNCELİK SIRASI
+===============================================================================
+
+  ŞİMDİ (kod tarafı, hemen yapılabilir)
+    ...
+
+  YAYIN GÜNÜ (insan aksiyonu)
+    ...
+
+  SONRA
+    ...
