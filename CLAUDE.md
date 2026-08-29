@@ -414,7 +414,7 @@ Kurallar:
 - Lighthouse **mobil** skorları §2'deki hedefleri karşılamalı
 - JSON-LD Rich Results Test + Schema Validator'dan hatasız geçmeli
 - Sayfalar hem light hem dark temada, hem 375px hem masaüstünde kontrol edilmeli
-- **Canlı ortamda** ayrıca `2-Denetim-Listeleri/CanliSite-Denetim-Checklist.md`
+- **Canlı ortamda** ayrıca `2-Denetim-Listeleri/LiveSite-Checklist.md`
 
 **Kanıt olmadan başarı iddia edilmez.**
 
@@ -528,7 +528,7 @@ yapmak zorunda kalınıyorsa süreç yanlış işlemiştir.
 **Yayın öncesi:** `4.Rapor-SABLON.txt` doldurulur, öneriler yazılır.
 Orijinal `1/2/3` listeleri **asla** işaretlenmez.
 
-**Yayın sonrası:** `2-Denetim-Listeleri/CanliSite-Denetim-Checklist.md`.
+**Yayın sonrası:** `2-Denetim-Listeleri/LiveSite-Checklist.md`.
 
 ---
 

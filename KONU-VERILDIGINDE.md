@@ -132,7 +132,7 @@ işaretlenir.
 
 ### 4.3. Yayın sonrası
 
-`2-Denetim-Listeleri/CanliSite-Denetim-Checklist.md` — **yalnızca deploy'dan
+`2-Denetim-Listeleri/LiveSite-Checklist.md` — **yalnızca deploy'dan
 sonra.**
 
 ---

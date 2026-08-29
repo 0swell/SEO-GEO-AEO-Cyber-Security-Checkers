@@ -6,7 +6,7 @@
 >
 > **İSTİSNA:** §1 HTTPS ve §5 güvenlik başlıkları yalnızca canlı ortamda
 > doğrulanabilir. Onlar `[98] yayın sonrası` işaretlenir ve
-> `CanliSite-Denetim-Checklist.md` ile kapatılır.
+> `LiveSite-Checklist.md` ile kapatılır.
 
 Önem sırasına göre kategorilere ayrılmıştır. Tamamlananları `[x]` işaretle.
 
@@ -21,13 +21,13 @@ yayın öncesi    →  SEO/GEO/AEO denetimi + CyberSecurity kanıtı toplanır
                      ↓
               D E P L O Y
                      ↓
-yayın sonrası   →  CanliSite-Denetim + CyberSecurity'nin [98] maddeleri
+yayın sonrası   →  LiveSite + CyberSecurity'nin [98] maddeleri
 ```
 
 | Liste | Zaman | Neyi denetler |
 |-------|-------|---------------|
 | `CyberSecurity-Checklist.md` | Geliştirme + yayın öncesi | Uygulamanın **içini** |
-| `CanliSite-Denetim-Checklist.md` | **Yayından sonra** | Yayına alınmış **halini** |
+| `LiveSite-Checklist.md` | **Yayından sonra** | Yayına alınmış **halini** |
 
 
 ---

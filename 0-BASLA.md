@@ -22,7 +22,7 @@ yeniproje-paketi/
 │   └── 4.Rapor-SABLON.txt            denetim buraya doldurulur
 └── 2-Denetim-Listeleri/
     ├── CyberSecurity-Checklist.md    uygulamanın İÇİNİ denetler
-    └── CanliSite-Denetim-Checklist.md yayına alınmış HALİNİ denetler
+    └── LiveSite-Checklist.md yayına alınmış HALİNİ denetler
 ```
 
 ---
@@ -80,7 +80,7 @@ kontrol → `4.Rapor-SABLON.txt`'i doldur → önerileri uygula → tekrar kontr
 
 ### 5. Yayın sonrası
 
-`2-Denetim-Listeleri/CanliSite-Denetim-Checklist.md` — bunlar yalnızca canlı
+`2-Denetim-Listeleri/LiveSite-Checklist.md` — bunlar yalnızca canlı
 ortamda ortaya çıkan sorunlardır. Özellikle:
 
 - Form gerçekten mail gönderiyor mu (ortam değişkeni üretimde tanımlı mı)

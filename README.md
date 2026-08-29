@@ -16,7 +16,7 @@
 | `0-BASLA.md` | Paketin nasıl kullanılacağı |
 | `KONU-VERILDIGINDE.md` | Proje konusu verilince izlenecek akış |
 | `1-SEO-GEO-AEO/` | SEO · GEO · AEO denetim listeleri + `4.Rapor-SABLON.txt` |
-| `2-Denetim-Listeleri/` | `CyberSecurity` + `CanliSite-Denetim` checklist'leri |
+| `2-Denetim-Listeleri/` | `CyberSecurity` + `LiveSite` checklist'leri |
 | `3-Agentlar/` | `gelistirici` · `test-uzmani` · `pazarlama-uzmani` rolleri |
 
 ## 🚀 Kullanım
